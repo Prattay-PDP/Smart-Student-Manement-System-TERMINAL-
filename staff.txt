@@ -1,5 +1,1 @@
-admin,01700000000,admin123
-teacher,01711111111,teacher123
-accountant,01722222222,acc123
-receptionist,01733333333,rec123
-librarian,01744444444,lib123
+*.class
